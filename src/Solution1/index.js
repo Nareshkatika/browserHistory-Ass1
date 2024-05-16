@@ -16,7 +16,7 @@ const History = props => {
     setButtonType(buttonType.filter(eachElement => eachElement.id !== id))
   }
 
-  const Result = initialHistoryList.filter(eachItem =>
+  const Result = buttonType.filter(eachItem =>
     eachItem.title.toLowerCase().includes(search.toLowerCase()),
   )
 
