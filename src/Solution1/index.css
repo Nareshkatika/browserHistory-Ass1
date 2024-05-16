@@ -1,0 +1,33 @@
+.navbarEl {
+  background-color: #3367d6;
+  height: 15vh;
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.logoEl1 {
+  height: 30px;
+}
+
+.rowArrangeEl1 {
+  display: flex;
+  flex-direction: row;
+  margin-right: 400px;
+  margin-top: 17px;
+}
+
+.logoEl2 {
+  height: 30px;
+}
+
+.inputElDesign {
+  height: 28px;
+  width: 220px;
+}
+
+.para3 {
+  text-align: center;
+  margin-top: 40px;
+}

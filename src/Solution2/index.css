@@ -1,0 +1,17 @@
+.listEl2 {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.ArrangeElList2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: s;
+}
+
+.arrangeEl45 {
+  margin: 5px;
+}
